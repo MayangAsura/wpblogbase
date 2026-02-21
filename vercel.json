@@ -30,5 +30,6 @@
     "env": {
       "NODEJS_AWS_HANDLER_NAME": "handler"
     }
-  }
+  },
+  "excludeFiles": "{.next,*.cache,node_modules,public,app}/**"
 }
